@@ -4,7 +4,7 @@
 This tutorial covers the basics of Git and GitHub, their differences, installation, setup, and common commands. Whether you're new to version control or looking to improve your workflow, this guide will help you get started.
 
 ### Table of Contents
-1. [What is Git and GitHub](#https://github.com/swati-e/learn-git-and-github/blob/main/README.md#7-branch-and-merge)
+1. [What is Git and GitHub](#learn-git-and-github)
 2. [Their Differences](#their-differences)
 3. [Installations and GUIs](#installations-and-guis)
 4. [Setup](#setup)
